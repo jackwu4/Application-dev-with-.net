@@ -1,0 +1,21 @@
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe.config
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.pdb
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csprojAssemblyReference.cache
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.exe
+C:\Users\jackw\source\repos\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.pdb
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe.config
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.pdb
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csprojAssemblyReference.cache
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.exe
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.pdb
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe.config
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.exe
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\bin\Debug\NetAssignment1.pdb
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csprojAssemblyReference.cache
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.exe
+C:\Users\Jack\Documents\UTS Year 2 Semester 2\Application Development with NET\NetAssignment1\NetAssignment1\obj\Debug\NetAssignment1.pdb
